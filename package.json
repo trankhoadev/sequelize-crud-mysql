@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/trankhoadev/sequelize-crud-mysql#readme",
   "dependencies": {
+    "dotenv": "^16.0.2",
     "mysql2": "^2.3.3",
     "sequelize": "^6.23.0"
   }
