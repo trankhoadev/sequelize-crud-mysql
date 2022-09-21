@@ -1,0 +1,23 @@
+{
+  "name": "sequelize-crud-mysql",
+  "version": "1.0.0",
+  "description": "Create nodejs app for crud data with mysql using sequelize",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trankhoadev/sequelize-crud-mysql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trankhoadev/sequelize-crud-mysql/issues"
+  },
+  "homepage": "https://github.com/trankhoadev/sequelize-crud-mysql#readme",
+  "dependencies": {
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.23.0"
+  }
+}
