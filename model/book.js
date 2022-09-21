@@ -23,3 +23,5 @@ const Book = sequelize.define("books", {
  }).catch((error) => {
     console.error('Unable to create table : ', error);
  });
+
+ module.exports = Book;
